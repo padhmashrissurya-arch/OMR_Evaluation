@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pillow
+streamlit
+scikit-learn
+sqlalchemy
