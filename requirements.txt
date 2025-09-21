@@ -4,3 +4,4 @@ pillow
 streamlit
 scikit-learn
 sqlalchemy
+plotly
